@@ -14,7 +14,7 @@ wget -O install.sh http://www.aapanel.com/script/install-ubuntu_6.0_en.sh && sud
 ## Clonar o repositorio do github
 
 ```
-sudo apt install -y git && git clone https://github.com/playconect/Instalador-WhatsBot && sudo chmod -R 777 Instalador-WhatsBot && cd Instalador-WhatsBot && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/playconect/Instalador-ChatPlus && sudo chmod -R 777 Instalador-ChatPlus && cd Instalador-ChatPlus && sudo ./install_primaria
 ```
 
 
