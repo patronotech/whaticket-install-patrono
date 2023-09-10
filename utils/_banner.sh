@@ -21,30 +21,22 @@ print_banner() {
 
   printf "\n\n"
 
-  printf "${GREEN}";
-  printf "                                                     ▄▄█▀▀▀▀▀▀▀█▄▄  \n";
-  printf "                                                   ${GREEN}▄█▀${NC}   ${WHITE}▄▄${NC}      ${GREEN}▀█▄\n";
-  printf "                                                   ${GREEN}█${NC}    ${WHITE}███${NC}         ${GREEN}█\n";
-  printf "                                                   ${GREEN}█${NC}    ${WHITE}██▄         ${GREEN}█${NC}\n";
-  printf "                                                   ${GREEN}█${NC}     ${WHITE}▀██▄${NC} ${WHITE}██${NC}    ${GREEN}█\n";
-  printf "                                                   ${GREEN}█${NC}       ${WHITE}▀███▀${NC}    ${GREEN}█\n";
-  printf "                                                   ${GREEN}▀█▄           ▄█▀\n";
-  printf "                                                    ▄█    ▄▄▄▄█▀▀  \n";
-  printf "                                                    █  ▄█▀        \n";
-  printf "                                                    ▀▀▀▀          \n";
-  printf "${NC}";
+printf "${CYAN_LIGHT}";
 
-  printf "\n"
 
-printf "${GREEN}";
- 
-printf " ╔╗╔╗╔╦╗░╔╦═══╦════╦═══╗╔═══╦═══╦══╦═╗░╔╦═══╦╗░░░\n";
-printf "║║║║║║║░║║╔═╗║╔╗╔╗║╔═╗║║╔═╗║╔═╗╠╣╠╣║╚╗║║╔══╣║░░░\n";
-printf "║║║║║║╚═╝║║░║╠╝║║╚╣╚══╗║╚═╝║║░║║║║║╔╗╚╝║╚══╣║░░░\n";
-printf "║╚╝╚╝║╔═╗║╚═╝║░║║░╚══╗║║╔══╣╚═╝║║║║║╚╗║║╔══╣║░╔╗\n";
-printf "╚╗╔╗╔╣║░║║╔═╗║░║║░║╚═╝║║║░░║╔═╗╠╣╠╣║░║║║╚══╣╚═╝║\n";
-printf "░╚╝╚╝╚╝░╚╩╝░╚╝░╚╝░╚═══╝╚╝░░╚╝░╚╩══╩╝░╚═╩═══╩═══╝\n";
-  
+printf ${CYAN_LIGHT}"       ___           ___           ___                         ___                       ___           ___       \n";
+printf ${CYAN_LIGHT}"      /\__\         /\  \         /\  \                       /\  \                     /\  \         /\__\      \n";
+printf ${CYAN_LIGHT}"     /:/  /         \:\  \       /::\  \         ___         /::\  \                    \:\  \       /:/ _/_     \n";
+printf ${CYAN_LIGHT}"    /:/  /           \:\  \     /:/\:\  \       /\__\       /:/\:\__\                    \:\  \     /:/ /\  \    \n";
+printf ${CYAN_LIGHT}"   /:/  /  ___   ___ /::\  \   /:/ /::\  \     /:/  /      /:/ /:/  /  ___     ___   ___  \:\  \   /:/ /::\  \   \n";
+printf ${CYAN_LIGHT}"  /:/__/  /\__\ /\  /:/\:\__\ /:/_/:/\:\__\   /:/__/      /:/_/:/  /  /\  \   /\__\ /\  \  \:\__\ /:/_/:/\:\__\  \n";
+printf ${CYAN_LIGHT}"  \:\  \ /:/  / \:\/:/  \/__/ \:\/:/  \/__/  /::\  \      \:\/:/  /   \:\  \ /:/  / \:\  \ /:/  / \:\/:/ /:/  /  \n";
+printf ${CYAN_LIGHT}"   \:\  /:/  /   \::/__/       \::/__/      /:/\:\  \      \::/__/     \:\  /:/  /   \:\  /:/  /   \::/ /:/  /   \n";
+printf ${CYAN_LIGHT}"    \:\/:/  /     \:\  \        \:\  \      \/__\:\  \      \:\  \      \:\/:/  /     \:\/:/  /     \/_/:/  /    \n";
+printf ${CYAN_LIGHT}"     \::/  /       \:\__\        \:\__\          \:\__\      \:\__\      \::/  /       \::/  /        /:/  /      \n";
+printf ${CYAN_LIGHT}"      \/__/         \/__/         \/__/           \/__/       \/__/       \/__/         \/__/         \/__/      \n";
+                                                                                                                                                         
+  printf "            \033[1;33m        © CANAL AS EMPREENDIMENTOS - https://www.youtube.com/@as.empreendimentos\n";
   printf "${NC}";
 
   printf "\n"
