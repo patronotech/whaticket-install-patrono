@@ -1,4 +1,14 @@
+<h1 align="center">Whaticket Baileys | Canal AS Empreendimentos</h1>
 
+<div align="center">
+
+[![License](https://img.shields.io/badge/license-GPL--3.0-orange)](./LICENSE)
+[![Nubank](https://img.shields.io/badge/donate-nubank-purple)](https://nubank.com.br/pagar/3t48b/JrjGzXVmFs)
+
+
+<h1 align="center">https://www.youtube.com/channel/UC1LtncGl2arvnIXwQtsTrAA</h1>
+
+## Vamos instalar?
 
 ## Instalar em Ubuntu 20.04
 
