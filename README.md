@@ -3,7 +3,6 @@
 <div align="center">
 
 [![License](https://img.shields.io/badge/license-GPL--3.0-orange)](./LICENSE)
-[![Nubank](https://img.shields.io/badge/donate-nubank-purple)](https://nubank.com.br/pagar/3t48b/JrjGzXVmFs)
 
 
 <h1 align="center">https://www.youtube.com/channel/UC1LtncGl2arvnIXwQtsTrAA</h1>
@@ -41,22 +40,7 @@ Uma VPS Ubuntu 20.04 (Configuração recomendada: 3 VCPU's + 4 GB RAM)
 Subdominio para parte visual - Frontend
 Subdominio para API - backend
 
-## Consultoria e contato:
 
-    CANAL AS EMPREENDIMENTOS
-
-    Fone: 85 99821-4849(WhatsApp)
-
-
-## Se o conteúdo te ajudou ajude este projeto:
-(Nos ajude a trazer novos conteúdos todos os dias!)
-
-<div align="center">
-    <h3>Ajude com qualquer valor</h3>
-  <a href="https://nubank.com.br/pagar/3t48b/JrjGzXVmFs" target="_blank" rel="noopener noreferrer">
-    <img src="./public/images/nubank.jpeg" style="width: 50% !important;">
-  </a>
-</div>
 
 
 Copia e cola:
