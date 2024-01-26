@@ -1,4 +1,4 @@
-<h1 align="center">Whaticket Baileys | Canal AS Empreendimentos</h1>
+<h1 align="center">Whaticket Baileys </h1>
 
 <div align="center">
 
